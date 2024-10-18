@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    text-align: center;
+    padding: 10px;
+}
+
+th {
+    background-color: #f0f0f0;
+}
+
+.bg-red-200 {
+    background-color: #fbcfe8; /* Light red for weekends */
+}
+
+.selected {
+    background-color: #34d399; /* Green for selected slots */
+}
